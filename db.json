@@ -4,13 +4,13 @@
       "id": 2,
       "text": "Meeting at School",
       "day": "May 6th at 2:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 5,
       "text": "test 2Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 6,
@@ -22,7 +22,19 @@
       "id": 1,
       "text": "333Meeting at School",
       "day": "May 6th at 2:30pm",
-      "reminder": true
+      "reminder": false
+    },
+    {
+      "text": "Angulara giriş yap!",
+      "day": "Today",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "asd",
+      "day": "asd123",
+      "reminder": true,
+      "id": 8
     }
   ]
 }
